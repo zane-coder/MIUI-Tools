@@ -3,4 +3,5 @@
 
 
 扫码下载apk：
+
 ![](./qrcode.png)
