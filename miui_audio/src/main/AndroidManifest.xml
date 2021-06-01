@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.zane.miuitools">
+    package="com.zane.miui_audio">
 
     <application
         android:name=".App"
@@ -20,14 +20,12 @@
                     android:host="localhost"
                     android:scheme="${applicationId}" />
             </intent-filter>
-            <intent-filter>
-                <action android:name="android.service.quicksettings.action.QS_TILE_PREFERENCES" />
-            </intent-filter>
         </activity>
+
         <service
-            android:name=".FiveGService"
-            android:icon="@drawable/ic_5g"
-            android:label="@string/five_g_tile_label"
+            android:name=".AudioService"
+            android:icon="@drawable/ic_album"
+            android:label="@string/tile_label"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
             <intent-filter>
                 <action android:name="android.service.quicksettings.action.QS_TILE" />

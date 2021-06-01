@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MIUI Audio</string>
+    <string name="tile_label">播放设备</string>
+</resources>

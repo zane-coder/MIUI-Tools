@@ -1,4 +1,4 @@
-package com.zane.miuitools.utils;
+package com.zane.commonlibrary.utils;
 
 import java.lang.reflect.AccessibleObject;
 import java.lang.reflect.Constructor;

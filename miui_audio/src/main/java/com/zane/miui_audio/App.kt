@@ -1,8 +1,6 @@
-package com.zane.miuitools
+package com.zane.miui_audio
 
-import android.os.Process
 import com.zane.commonlibrary.BaseApp
-import kotlin.system.exitProcess
 
 /**
  *
@@ -11,4 +9,5 @@ import kotlin.system.exitProcess
  * @date: 2021/5/31
  */
 class App : BaseApp() {
+
 }

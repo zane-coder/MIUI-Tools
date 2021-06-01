@@ -1,2 +1,4 @@
 rootProject.name = "MIUITools"
 include ':app'
+include ':miui_audio'
+include ':commonlibrary'

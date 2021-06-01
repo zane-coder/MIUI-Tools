@@ -1,4 +1,4 @@
-package com.zane.miuitools.utils
+package com.zane.commonlibrary.utils
 
 import android.util.Log
 

@@ -4,7 +4,7 @@ import android.content.Context
 import android.graphics.drawable.Icon
 import android.service.quicksettings.Tile
 import android.service.quicksettings.TileService
-import com.zane.miuitools.utils.FiveGUtils
+import com.zane.commonlibrary.utils.FiveGUtils
 
 /**
  *
