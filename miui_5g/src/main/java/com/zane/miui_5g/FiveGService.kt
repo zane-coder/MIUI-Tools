@@ -1,4 +1,4 @@
-package com.zane.miuitools
+package com.zane.miui_5g
 
 import android.content.Context
 import android.graphics.drawable.Icon
